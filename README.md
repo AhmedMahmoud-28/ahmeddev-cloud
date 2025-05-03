@@ -14,11 +14,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science student with a deep interest in both **software engineering** and **cybersecurity**
-- 💻 I craft modern, responsive web applications using the latest technologies
-- 🔐 Passionate about **web penetration testing**, ethical hacking, and secure coding practices
-- 🛠️ Skilled in building structured, maintainable systems with focus on scalability and clean architecture
-- 📊 Strong background in **System Analysis & Design** using diagrams and modeling tools
+-  Computer Science student with a deep interest in both **software engineering** and **cybersecurity**
+-  I craft modern, responsive web applications using the latest technologies
+-  Passionate about **web penetration testing**, ethical hacking, and secure coding practices
+-  Skilled in building structured, maintainable systems with focus on scalability and clean architecture
+-  Strong background in **System Analysis & Design** using diagrams and modeling tools
 
 ---
 
@@ -73,7 +73,7 @@
   <a href="https://linkedin.com/in/ahmedmahmoud-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:ahmedmahmouddevo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ahmeddev-cloud" target="_blank">
