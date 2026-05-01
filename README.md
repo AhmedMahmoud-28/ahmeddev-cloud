@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud</h1>
-<h3 align="center">Software Engineer | Web Pentester | CS Student</h3>
+<h3 align="center"> Web Pentester | Bug Hunter</h3>
 
 <p align="center">
   <a href="https://github.com/ahmeddev-cloud">
